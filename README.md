@@ -2,6 +2,8 @@
 
 A machine learning solution for predicting solar panel performance degradation and potential failures using historical and real-time sensor data. This project enables predictive maintenance and optimal energy output optimization for photovoltaic (PV) systems.
 
+# You can visit the deployed version on ( https://v0-frontend-design-code.vercel.app/ )
+
 ## 🎯 Project Overview
 
 Traditional maintenance methods for photovoltaic systems are often reactive, leading to energy loss and increased costs. This project develops a comprehensive ML model that predicts performance degradation and potential failures in solar panels, enabling proactive maintenance strategies.
@@ -254,7 +256,7 @@ For questions or issues:
 1. Check the documentation above
 2. Review the code comments
 3. Open an issue in the repository
-4. Contact the development team
+4. Contact career.anand04@gmail.com
 
 ---
 
